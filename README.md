@@ -1,2 +1,1 @@
-# billionaires_chinese_zodiac_signs
-Billionaries' and Their Chinese Zodic Signs 
+# Billionaires' and Their Chinese Zodiac Signs
